@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FrancisOwino/francis_task_manager_app/static/css/main.da3089f3.css",
+    "main.js": "/FrancisOwino/francis_task_manager_app/static/js/main.5fdb7dff.js",
+    "static/js/787.635aedaa.chunk.js": "/FrancisOwino/francis_task_manager_app/static/js/787.635aedaa.chunk.js",
+    "index.html": "/FrancisOwino/francis_task_manager_app/index.html",
+    "main.da3089f3.css.map": "/FrancisOwino/francis_task_manager_app/static/css/main.da3089f3.css.map",
+    "main.5fdb7dff.js.map": "/FrancisOwino/francis_task_manager_app/static/js/main.5fdb7dff.js.map",
+    "787.635aedaa.chunk.js.map": "/FrancisOwino/francis_task_manager_app/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.5fdb7dff.js"
+  ]
+}
